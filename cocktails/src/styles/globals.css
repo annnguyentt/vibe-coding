@@ -1,0 +1,27 @@
+/* The few resets the page leans on: everything sized border to border, no stray margins or padding,
+   buttons with nothing of their own. The page's own styles live with it, in src/pages/index.js. */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0 solid;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: transparent;
+}
+
+img,
+svg,
+canvas {
+  display: block;
+}
