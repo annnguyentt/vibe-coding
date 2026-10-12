@@ -8,6 +8,7 @@ These projects are playful, visual, and made for fun: small sites, interactions,
 
 - **[bloom-qr](bloom-qr)** — a 3D vase of flowers that scatters into a scannable QR code and gathers back again. three.js + Next.js.
 - **[cocktails](cocktails)** — ray traced cocktails in real glass that slosh in, get their garnish and get drunk down. three.js + Next.js.
+- **[cd-case](cd-case)** — a clear CD jewel case where light bends through the plastic, the disc spins with its rainbow, and the lid swings open. three.js + Next.js.
 
 ## Credit
 
